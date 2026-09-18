@@ -68,8 +68,9 @@ Companies with recent MTD internships are indicated in **bold**, my personal fav
 ### Hagenberg
 
 - [BLUE-ZONE Smart Products](https://www.linkedin.com/company/blue-zone-smartproducts/)
-- [RISC Software](https://www.linkedin.com/company/risc-software-gmbh/)
 - **[Porsche Informatik](https://www.linkedin.com/company/porsche-informatik-gmbh/)**
+- [RISC Software](https://www.linkedin.com/company/risc-software-gmbh/)
+
 
 ### Linz
 
@@ -141,7 +142,7 @@ Companies with recent MTD internships are indicated in **bold**, my personal fav
 - [Österreichische Post](https://www.linkedin.com/company/unserepost/life/968341ed-2aba-4a2d-8fce-b83724f942f7/)
 - [refurbed](https://www.linkedin.com/company/refurbed/)
 - [Speechify](https://www.linkedin.com/company/speechifyinc/)
-- [Tante Emma](https://www.linkedin.com/company/tante-emma-werbeagentur/)
+- **[Tante Emma]**(https://www.linkedin.com/company/tante-emma-werbeagentur/)
 - [University of Vienna](https://www.linkedin.com/school/univienna/)
 - [WienIT](https://www.linkedin.com/company/wienit/life/9f134e73-76b6-42bd-a83c-618b705ab6c8/)
 - [willhaben](https://www.linkedin.com/company/willhaben)
@@ -153,7 +154,7 @@ Companies with recent MTD internships are indicated in **bold**, my personal fav
 - [bergfex](https://www.linkedin.com/company/bergfex-gmbh/) (Graz)
 - [BORA](https://www.linkedin.com/company/boracookingsystems/) (Niederndorf)
 - [Blum](https://www.linkedin.com/company/blumgroup/life/57bb5839-fed9-4f4b-b66a-c8c991917c81/) (Höchst)
-- [Chargeprice](https://www.linkedin.com/company/chargeprice/) (Graz)
+- [Chargeprice](https://www.linkedin.com/company/chargeprice/) (Graz) ⭐
 - [citiesapps](https://www.linkedin.com/company/citiesapps/) (Graz)
 - [ENGEL](https://www.linkedin.com/company/engel-global/) (Schwertberg)
 - [Fronius](https://www.linkedin.com/company/fronius-oesterreich/life/82859c04-5379-4fd9-bea5-6b339696a517/) (Wels)
