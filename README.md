@@ -21,6 +21,7 @@ Within your application journey, I can furthermore recommend the following:
 
 The following list contains specific offers for internships, which may be outdated by now but still be reopened at some point:
 
+- [Research Internship: UX & GUI Design for Next-Generation Cockpits, German Aerospace Center, Geisenfeld](https://www.linkedin.com/jobs/view/4468281118)
 - [Internship Experience Design, FLUID Design, Munich](https://www.linkedin.com/jobs/view/4465970331)
 - [Working Student - UX Design and Research, Infineon, Munich](https://www.linkedin.com/jobs/view/4436328817)
 - [Intern UX/UI Designer, Youwe, Amsterdam](https://www.linkedin.com/jobs/view/4426294807)
